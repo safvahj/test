@@ -1,0 +1,6 @@
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\bin\Debug\Ykx.Commucation.dll
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\bin\Debug\Ykx.Commucation.pdb
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\obj\Debug\Ykx.Commucation.csproj.AssemblyReference.cache
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\obj\Debug\Ykx.Commucation.csproj.CoreCompileInputs.cache
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\obj\Debug\Ykx.Commucation.dll
+D:\Develop\VisualStudio\VsProject\WPFindustrial411\Ykx.Commucation\obj\Debug\Ykx.Commucation.pdb
